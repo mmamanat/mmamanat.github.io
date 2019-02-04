@@ -1,2 +1,2 @@
-# mmamanat.github.io
-Source code for personal website
+# Personal Website
+https://gcmillar.github.io/
