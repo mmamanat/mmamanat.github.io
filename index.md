@@ -1,4 +1,4 @@
-![pic](https://gcmillar.github.io/images/me.png)
+![pic](https://mmamanat.github.io/images/Megan.jpg)
 ## About
 
 I am an ORISE fellow at the U.S. EPA Office of Research and Development and a Ph.D. student at the Center for Geospatial Analytics at North Carolina State University. At the U.S. EPA, I work under the guidance of [Dr. Blake Schaeffer](https://www.epa.gov/sciencematters/meet-epa-scientist-blake-schaeffer-phd). At NC State University, I am advised by [Dr. Helena Mitasova](https://cnr.ncsu.edu/geospatial/directory/helena-mitasova/). 
@@ -9,12 +9,4 @@ My research uses satellite remote sensing data to assess the status of cyanobact
 
 ### Follow me on: 
 
-![gscholar](https://gcmillar.github.io/logos/gscholar.png) [GoogleScholar](https://scholar.google.com/citations?user=BaZoAUgAAAAJ&hl=en),  ![github](https://gcmillar.github.io/logos/octocat.svg) [GitHub](https://github.com/gcmillar),  ![linkedin](https://gcmillar.github.io/logos/linkedin.png) [LinkedIn](https://www.linkedin.com/in/garrett-millar-571493a6/),  ![researchG](https://gcmillar.github.io/logos/rg.png) [ResearchGate](https://www.researchgate.net/profile/Garrett_Millar)
-
-### Affiliation and Membership
-
-[NCSU GeoForAll Lab](https://geospatial.ncsu.edu/osgeorel/) Member
-
-Research & Teaching Assistant at [NCSU Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
-
-PhD Student at [North Carolina State University](https://www.ncsu.edu/)
+![gscholar](https://mmamanat.github.io/logos/gscholar.png) [GoogleScholar](https://scholar.google.com/citations?user=64DmvvkAAAAJ&hl=en),  ![github](https://mmamanat.github.io/logos/octocat.svg) [GitHub](https://github.com/mmamanat),  ![linkedin](https://mmamanat.github.io/logos/linkedin.png) [LinkedIn](https://www.linkedin.com/in/megan-coffer-8813b38a/)
