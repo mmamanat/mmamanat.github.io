@@ -1,2 +1,2 @@
 # Personal Website
-https://mmamanat.github.io/
+https://gcmillar.github.io/
