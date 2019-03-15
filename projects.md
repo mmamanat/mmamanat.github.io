@@ -1,2 +1,14 @@
 ![projects](https://gcmillar.github.io/images/gaps.png)
-## Coming Soon
+
+## Monitoring Cyanobacterial Blooms 
+I am primarily involved with the Cyanobacteria Assessment Network, or CyAN, which is an interagency research effort between the U.S. EPA, USGS, NASA, and NOAA. The objective of CyAN is to develop an early warning indicator system using historical and current satellite data to detect algal blooms in U.S. freshwater systems. This research supports federal, state, and local partners in their monitoring efforts to assess water quality to protect aquatic and human health.
+
+The primary data sources for this project are two European Space Agency satellites. The first was used to collect data over the United States from 2008 through 2011. This sensor was called the MEdium Resolution Imaging Spectrometer (MERIS) and was onboard the Envisat satellite. Beginning in 2017, data were obtained from the Ocean and Land Colour Imager (OLCI) onboard the Sentinel-3 series. A spectral shape algorithm is used to estimate cyanobacterial abundance based on absorption centered at 681 nm. Each sensor has a spatial resolution of 300 m which allows for just over 2,000 large waterbodies across the continental United States to be resolved given that each waterbody must be of sufficient size and shape to accomodate the spatial resolution of the sensor. 
+
+My contributions to the CyAN project include analyzing the frequency of cyanobacterial blooms, quantifying their impacts on drinking water intakes, and assessing the regional timing of peak cyanobacterial blooms. 
+
+
+## Remote Sensing of Seagrass 
+In collaboration with Old Dominion University, we use commercial satellite imagery to map seagrass extent in coastal ecosystems in the Eastern United States, particularly the Florida coast, the Chesapeake Bay, and the coast of New England. As this project continues, we plan to use these maps of seagrass extent to estimate carbon sequestration in these ecosystems. This analysis will help reduce our uncertainty in estimates of carbon storage in seagrass beds worldwide. 
+
+This project uses data from two commercial satellites, Worldview-2 and Worldview-3. These satellites have a 2 m spatial resolution allowing for our analyses to capture the high spatial variability of seagrass beds which are often intermixed with sand, coral, and other aquatic ecosystems. Surface reflectance along the red edge of the electromagnetic spectrum can be used to classify regions containing seagrass. Once extent has been confidently mapped, we can use this information along with a carbon sequestration model to estimate the amount of carbon stored in seagrass in this regions. 
