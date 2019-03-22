@@ -1,4 +1,4 @@
-![projects](https://gcmillar.github.io/images/gaps.png)
+![projects](https://mmamanat.github.io/images/cyan.png)
 
 ## Monitoring Cyanobacterial Blooms 
 I am primarily involved with the Cyanobacteria Assessment Network, or CyAN, which is an interagency research effort between the U.S. EPA, USGS, NASA, and NOAA. The objective of CyAN is to develop an early warning indicator system using historical and current satellite data to detect algal blooms in U.S. freshwater systems. This research supports federal, state, and local partners in their monitoring efforts to assess water quality to protect aquatic and human health.
