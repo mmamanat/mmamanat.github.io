@@ -1,0 +1,41 @@
+
+##' Define the main working directory
+#main.dir <- "/work/CYANOHAB/megan/"
+main.dir <- "E:/Amanatides_working/"
+##' Load required packages
+require(raster)
+require(rgdal)
+require(stringr)
+require(rgeos)
+require(dplyr)
+##' Set a temporary folder for rasters so they can be deleted
+r.temp1 <- ifelse(!dir.exists(paste0(main.dir, "bloomPercentage/rTempFiles")), dir.create(file.path(paste0(main.dir, "bloomPercentage/rTempFiles"))), F)
+rasterOptions(tmpdir = paste0(main.dir, "bloomPercentage/rTempFiles"))
+##' Load in monthly satellite composites and lakes shapefile
+sat.stack <- stack(lapply(list.files(path = paste0(main.dir, "data/satelliteData"), pattern = paste0(".*2018.*\\.tif$"), full.names = TRUE), FUN = raster))
+lakes <- spTransform(readOGR(paste0(main.dir, "data/lakes"), "updatedValidLakes", verbose = FALSE), projection(sat.stack))
+lake <- subset(lakes, GNIS_NAM_1 == "Jesup, Lake")
+##' Read in Lake jesup data, transform to SPDF, buffer by 900 m
+jesup <- lapply(list.files(paste0(main.dir, "data/lakeJesupData"), pattern = "*\\.csv$", full.names = T), function(x){read.csv(x, header = T, stringsAsFactors = F)})
+jesup <- lapply(jesup, function(x){SpatialPointsDataFrame(coords = select(x, "Longitude", "Latitude"), data = x, proj4string = CRS("+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"))})
+jesup <- lapply(jesup, function(x){spTransform(x, projection(sat.stack))})
+jesup <- lapply(jesup, function(x){subset(x, substr(as.Date(x$Date, "%m/%d/%Y"),1,4) == "2018" & Parameter == "Chl-a Corrected")})
+jesup <- lapply(jesup, function(x){gBuffer(x, byid = T, width = 600)})
+##' Subset to satellite scenes that correspond to field observations and extract data
+sat.dates <- lapply(as.list(as.Date(as.numeric(str_pad((as.numeric(substr(names(sat.stack),7,9)) * 7) - 7, width = 3, "0", side = "left")), origin = "2018-01-01")), function(x){seq(x - 6,x, by = "days")})
+date.matches <- lapply(as.list(as.Date(jesup[[1]]$Date, "%m/%d/%Y")), function(x){which(sapply(lapply(sat.dates, function(y){grep(x, y)}), function(z){length(z) > 0}))})
+sat.stack <- sat.stack[[unlist(date.matches)]]
+sat.crop <- crop(sat.stack, extent(lake))
+##' Convert sat.crop DN to CI and to Chl and extract data
+sat.crop <- 4321 * (10 ^ (sat.crop / 100) * 0.0001) + 23
+#sat.data <- lapply(jesup, function(x){unlist(lapply(1:nlayers(sat.crop), function(y){unlist(extract(sat.crop[[y]], SpatialPoints(t(matrix(c(unique(x$Longitude),unique(x$Latitude)))))))}))})
+sat.data <- lapply(jesup, function(x){unlist(lapply(1:nlayers(sat.crop), function(y){mean(unlist(extract(sat.crop[[y]],x)), na.rm = T)}))})
+##' Export results
+df <- as.data.frame(matrix(nrow = 10, ncol = 7))
+colnames(df) <- c("MONTH", "SITE1_SAT", "SITE1_FIELD", "SITE2_SAT", "SITE2_FIELD", "SITE3_SAT", "SITE3_FIELD")
+df$MONTH <- c("FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV")
+df$SITE1_SAT <- unlist(sat.data[[1]]); df$SITE2_SAT <- unlist(sat.data[[2]]); df$SITE3_SAT <- unlist(sat.data[[3]])
+df$SITE1_FIELD <- jesup[[1]]$CHL; df$SITE2_FIELD <- jesup[[2]]$CHL; df$SITE3_FIELD <- jesup[[3]]$CHL
+write.table(df, paste0(main.dir, "bloomPercentage/lakejesup/lakejesup_satAndFieldData.csv"), sep = ",", row.names = F)
+##' Delete raster temporary files from r.temp.dir
+unlink(paste0(main.dir, "bloomPercentage/rTempFiles"), recursive = T, force = T)
