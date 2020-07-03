@@ -1,13 +1,8 @@
 ## Papers
 
+### [Balancing privacy rights and the production of high-quality satellite imagery](https://pubs.acs.org/doi/full/10.1021/acs.est.0c02365)
 
-### Acute health effects associated with remotely sensed cyanobacteria in a drinking water
-reservoir in Massachusetts
-
-Wu, J., Hilborn, E., Schaeffer, B., Urquhart, E., **Coffer, M.**,
-Lin, C., & Egorov, A. (2019). Acute health effects associated with remotely sensed cyanobacteria in a drinking water
-reservoir in Massachusetts. _Environmental Health_. (_In Review_).
-
+Coffer, M. (2020). Balancing privacy rights and the production of high-quality satellite imagery. _Environmental Science & Technology_. 54 (11), 6453-6455. DOI: 10.1021/acs.est.0c02365.
 
 ### An investigation into the usability of commercial satellite imagery forseagrass mapping
 
@@ -23,7 +18,7 @@ Cyanobacterial harmful algal blooms are the most common form of harmful algal bl
 
 ### An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S. lakes
 
-Salls, W., Schaeffer, B., Keith, D., Urquhart, E., **Coffer, M.**, Seegers, B., Binding, C., & Stumpf, R. (2019). An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S lakes. (_In Clearance_). 
+Salls, W., Schaeffer, B., Keith, D., Urquhart, E., **Coffer, M.**, Seegers, B., Binding, C., & Stumpf, R. (2019). An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S lakes. (_In Review). 
 
 Given the societal and ecological threats posed by eutrophication, monitoring of inland waterbodies is crucial. Satellites provide a spatiotemporally extensive and cost-effective supplement to monitoring with in situ sampling. Previous work has leveraged various satellite sensors to detect chlorophyll, a constituent often used to define trophic state. The recently launched Sentinel-2 satellites offer a unique package of relatively high-spatial resolution and bands in the optimal spectral range for identifying chlorophyll. Thus, the platform enables greater resolution of more lakes than spectrally rich sensors with coarse resolution such as MODIS, yet potentially more accurate detection thansensors with comparable resolution such as Landsat. In this study, we test the application of a chlorophyll algorithm, the Maximum Chlorophyll Index (MCI), to Sentinel-2 using in situ chlorophyll-a data, doing so at a broad scale for the first time. Results indicate that Sentinel-2 MCI is capable of identifying general chlorophyll levels. However, substantial error (multiplicative MAE = 2.71), and systematic underestimation (multiplicative bias = 0.435) rendered precise measurement difficult. The observed bias may be reducible by using an alternative MCI-chlorophyll conversion. We considered the impact of several factors on Sentinel-2 MCI error; results suggest that distance from shore, sediment contamination, solar angle, and season should be considered. We also demonstrate that Sentinel-2 MCI has the potential to identify trophic state, reporting 46% accuracy but 93% accuracy within one class of correct. This study suggests that Sentinel-2 MCI provides valuable information of chlorophyll concentrations in inland waterbodies.
  
@@ -40,6 +35,12 @@ Arctic wetlands store nearly half of the world's soil organic carbon and are cru
 **Coffer M.**, Schaeffer, B., Uruqhart, E., Darling, J. & Salls, W. (2018) A method for quantifying the number of U.S. lakes with cyanobacterial harmful algal blooms using satellite remote sensing. _Proc. SPIE 10767, Remote Sensing and Modeling of Ecosystems for Sustainability XV, 1076709_. doi:10.1117/12.2319669.
 
 Cyanobacterial harmful algal blooms are the most common form of harmful algal blooms in freshwater systems throughout the world. However, in situ sampling of cyanobacteria in inland lakes is limited both spatially and temporally. Satellite data has proven to be an effective tool to monitor cyanobacteria in freshwater lakes across the United States. This study uses data from the European Space Agency MEdium Resolution Imaging Spectrometer and the Sentinel-3 Ocean and Land Color Instrument to provide a national overview of the percentage of lakes experiencing a cyanobacterial bloom on a weekly basis for 2008-2011 and 2017. A total of 2,370 lakes across the contiguous United States were included in the analysis. Bloom percentage was calculated for nine United States climate regions to examine regional patterns. Changes in cyanobacterial bloom percentage followed the well-known temporal pattern of freshwater blooms. The percentage of lakes experiencing a bloom increased throughout the year, reached a peak around October, and decreased through the winter. Wintertime data, particularly in the northern latitude regions, was consistently limited due to snow and ice cover. With the exception of the Southeast and South climate regions, regional patterns mimicked patterns found at the national scale. The Southeast and South regions exhibited an unexpected pattern as cyanobacterial bloom percentage peaked in the winter rather than the summer. Several environmental factors and potential satellite limitations can possibly explain these findings. Results from this research can help establish a baseline of annual occurrence of cyanobacterial blooms in inland lakes across the United States.
+
+### Acute health effects associated with remotely sensed cyanobacteria in a drinking water reservoir in Massachusetts
+
+Wu, J., Hilborn, E., Schaeffer, B., Urquhart, E., **Coffer, M.**,
+Lin, C., & Egorov, A. (2019). Acute health effects associated with remotely sensed cyanobacteria in a drinking water
+reservoir in Massachusetts. _Environmental Health_. (_In Review_).
    
 ## Presentations
 
