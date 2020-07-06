@@ -36,21 +36,22 @@ Lin, C., & Egorov, A. (2019). Acute health effects associated with remotely sens
 reservoir in Massachusetts. _Environmental Health_. (_In Review_).
    
 ## Presentations
+Exploring Satellite Image Integration for the Chesapeake Bay Submerged Aquatic Vegetation Monitoring Program 2019: Mapping seagrass with WorldView-2 and RapidEye. **Invited speaker.**
 
-- cerf 
+Seagrasses & Neural Networks Workshop at NASA Ames 2019: Processing commercial satellite imagery for water quality applications. **Invited speaker.**
 
-[]
+[NASA Headquarters Applied Sciences Program 2019: Green stuff from space!](https://mmamanat.github.io/images/NASA_HQ.pdf)
 
-[NASA Headquarters Applied Sciences Program: Green stuff from space!](https://mmamanat.github.io/images/NASA_HQ.pdf)
-
-[U.S. EPA Office of Water: An update on CyAN cyanobacterial metrics and drinking water applications](https://mmamanat.github.io/images/just_in_case.pdf)
+[U.S. EPA Office of Water 2019: An update on CyAN cyanobacterial metrics and drinking water applications](https://mmamanat.github.io/images/just_in_case.pdf)
 
 [SPIE 2018: A Method for Quantifying the Number of U.S. Lakes with Cyanobacterial Harmful Algal Blooms using Satellite Remote Sensing](https://mmamanat.github.io/images/Amanatides_Coffer_SPIE.pdf)
-
 
 [Stormwater Conference 2018: Using Satellite Data to Monitor the Impacts of CyanoHAB Events on Drinking Water: A Texas Case Study](https://mmamanat.github.io/images/Amanatides_SWC.pdf) 
 
 ## Posters 
+[CERF 2019: Monitoring algal blooms using high-spatial resolution satellite imagery](https://mmamanat.github.io/images/Coffer_poster.pdf)
+**Coffer, M.**, Schaeffer, B., Salls, W., Zimmerman, R. & Hill, V. (2019) Monitoring algal blooms using high-spatial resolution satellite imagery. _Coastal and Estuarine Research Federation._ Mobile, AL, November 4, 2019. 
+
 [NC State University Graduate Research Symposium: Assessing the frequency of cyanobacterial blooms in waterbodies across the United States](https://mmamanat.github.io/images/Coffer_gradStudentSymosium.pdf)
 
 **Coffer, M.**, Schaeffer, B. & Mitasova, H. (2019) Assessing the frequency of cyanobacterial blooms in waterbodies across the United States. _14th Annual NC State University Graduate Student Symposium._ Raleigh, NC, March 20, 2019.
@@ -73,7 +74,7 @@ reservoir in Massachusetts. _Environmental Health_. (_In Review_).
 
 **Coffer, M.** & Hestir, E. (2016). Trends of CO<sub>2</sub> Flux in Arctic Wetlands. _10th Annual Graduate Climate Conference._ Seattle, WA. 
 
-[NASA HyspIRI: Determining the Optimal view Angle for Hyperspectral-based Estimates of Wetland Plant Biomass]
+NASA HyspIRI: Determining the Optimal view Angle for Hyperspectral-based Estimates of Wetland Plant Biomass
 
 **Coffer, M.**, Ade, C. & Hestir, E. (2016). Determining the Optimal view Angle for Hyperspectral-based Estimates of Wetland Plant Biomass. _NASA HyspIRI Symposium_. Greenbelt, MD. 
 
