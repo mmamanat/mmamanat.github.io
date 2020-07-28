@@ -1,5 +1,8 @@
 ## Awards and Recognition 
 
+### 2020
+US Geospatial Intelligence Foundation (USGIF) scholarship recipient 
+
 ### 2019
 EPA Mason Hewitt Award for GIS technical excellence
 
