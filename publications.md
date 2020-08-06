@@ -6,7 +6,7 @@
 
 ### An investigation into the usability of commercial satellite imagery forseagrass mapping
 
-**Coffer, M.**, Schaeffer, B., Zimmerman, R., Hill, V., Li, J., Islam, K. & Whitman, P. (2020). Performance across WorldView-2 and RapidEye for reproducible seagrass mapping. _Remote Sensing of Environment_. (_In Review_).
+**Coffer, M.**, Schaeffer, B., Zimmerman, R., Hill, V., Li, J., Islam, K. & Whitman, P. (2020). Performance across WorldView-2 and RapidEye for reproducible seagrass mapping. _Remote Sensing of Environment_. (_In Press_).
 
 
 ### [Quantifying national and regional cyanobacterial occurrence in US lakes using satellite remote sensing](https://www.sciencedirect.com/science/article/pii/S1470160X19309719) 
