@@ -4,9 +4,9 @@
 
 **Coffer, M.** (2020). Balancing privacy rights and the production of high-quality satellite imagery. _Environmental Science & Technology_. 54 (11), 6453-6455. DOI: 10.1021/acs.est.0c02365.
 
-### An investigation into the usability of commercial satellite imagery forseagrass mapping
+### [Performance across WorldView-2 and RapidEye for reproducible seagrass mapping](https://www.sciencedirect.com/science/article/pii/S0034425720304065?via%3Dihub)
 
-**Coffer, M.**, Schaeffer, B., Zimmerman, R., Hill, V., Li, J., Islam, K. & Whitman, P. (2020). Performance across WorldView-2 and RapidEye for reproducible seagrass mapping. _Remote Sensing of Environment_. (_In Press_).
+**Coffer, M.**, Schaeffer, B., Zimmerman, R., Hill, V., Li, J., Islam, K. & Whitman, P. (2020). Performance across WorldView-2 and RapidEye for reproducible seagrass mapping. _Remote Sensing of Environment_. DOI: 10.1016/j.rse.2020.112036.
 
 
 ### [Quantifying national and regional cyanobacterial occurrence in US lakes using satellite remote sensing](https://www.sciencedirect.com/science/article/pii/S1470160X19309719) 
