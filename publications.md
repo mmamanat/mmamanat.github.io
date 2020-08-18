@@ -1,22 +1,19 @@
-## Papers
+## Accepted publications
 
-### [Balancing privacy rights and the production of high-quality satellite imagery](https://pubs.acs.org/doi/full/10.1021/acs.est.0c02365)
-
-**Coffer, M.** (2020). Balancing privacy rights and the production of high-quality satellite imagery. _Environmental Science & Technology_. 54 (11), 6453-6455. DOI: 10.1021/acs.est.0c02365.
 
 ### [Performance across WorldView-2 and RapidEye for reproducible seagrass mapping](https://www.sciencedirect.com/science/article/pii/S0034425720304065?via%3Dihub)
 
 **Coffer, M.**, Schaeffer, B., Zimmerman, R., Hill, V., Li, J., Islam, K. & Whitman, P. (2020). Performance across WorldView-2 and RapidEye for reproducible seagrass mapping. _Remote Sensing of Environment_. DOI: 10.1016/j.rse.2020.112036.
 
 
+### [Balancing privacy rights and the production of high-quality satellite imagery](https://pubs.acs.org/doi/full/10.1021/acs.est.0c02365)
+
+**Coffer, M.** (2020). Balancing privacy rights and the production of high-quality satellite imagery. _Environmental Science & Technology_. 54 (11), 6453-6455. DOI: 10.1021/acs.est.0c02365.
+
+
 ### [Quantifying national and regional cyanobacterial occurrence in US lakes using satellite remote sensing](https://www.sciencedirect.com/science/article/pii/S1470160X19309719) 
 
-**Coffer, M.**, Schaeffer, B., Darling, J., Urquhart, E., & Salls, W. (2019). Quantifying national and regional cyanobacterial occurrence in US lakes using satellite remote sensing. _Ecological Indicators_. 111. DOI: 10.1016/j.ecolind.2019.105976.
-
-
-### An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S. lakes
-
-Salls, W., Schaeffer, B., Keith, D., Urquhart, E., **Coffer, M.**, Seegers, B., Binding, C., & Stumpf, R. (2019). An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S lakes. (_In Review_). 
+**Coffer, M.**, Schaeffer, B., Darling, J., Urquhart, E., & Salls, W. (2020). Quantifying national and regional cyanobacterial occurrence in US lakes using satellite remote sensing. _Ecological Indicators_. 111. DOI: 10.1016/j.ecolind.2019.105976.
 
 
 ### [Variability in Trends and Indicators of CO<sub>2</sub> Exchange across Arctic Wetlands](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JG004775)
@@ -27,6 +24,14 @@ Salls, W., Schaeffer, B., Keith, D., Urquhart, E., **Coffer, M.**, Seegers, B., 
 ### [A method for quantifying the number of U.S. lakes with cyanobacterial harmful algal blooms using satellite remote sensing](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10767/0000/A-method-for-quantifying-the-number-of-US-lakes-with/10.1117/12.2319669.short?SSO=1) 
 
 **Coffer M.**, Schaeffer, B., Uruqhart, E., Darling, J. & Salls, W. (2018) A method for quantifying the number of U.S. lakes with cyanobacterial harmful algal blooms using satellite remote sensing. _Proc. SPIE 10767, Remote Sensing and Modeling of Ecosystems for Sustainability XV, 1076709_. doi:10.1117/12.2319669.
+
+
+## Publications in progress
+
+
+### An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S. lakes
+
+Salls, W., Schaeffer, B., Keith, D., Urquhart, E., **Coffer, M.**, Seegers, B., Binding, C., & Stumpf, R. (2019). An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S lakes. (_In Review_). 
 
 
 ### Acute health effects associated with remotely sensed cyanobacteria in a drinking water reservoir in Massachusetts
