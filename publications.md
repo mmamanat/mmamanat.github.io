@@ -1,4 +1,4 @@
-## Accepted publications
+# Accepted publications
 
 
 ### [Performance across WorldView-2 and RapidEye for reproducible seagrass mapping](https://www.sciencedirect.com/science/article/pii/S0034425720304065?via%3Dihub)
@@ -15,6 +15,9 @@
 
 **Coffer, M.**, Schaeffer, B., Darling, J., Urquhart, E., & Salls, W. (2020). Quantifying national and regional cyanobacterial occurrence in US lakes using satellite remote sensing. _Ecological Indicators_. 111. DOI: 10.1016/j.ecolind.2019.105976.
 
+### [A Review of Geospatial Content in IEEE Visualization Publications](https://arxiv.org/abs/2009.03390)
+
+Yoshizumi, A., **Coffer, M.**, Collins, E., Gaines, M., Gao, X., Jones, K., McGregor, I., McQuillan, K., Perin, V., Tomkins, L. & Worm, T. (2020). A Review of Geospatial Content in IEEE Visualization Publications. _IEEE Visualizations_. URL: arXiv:2009.03390.
 
 ### [Variability in Trends and Indicators of CO<sub>2</sub> Exchange across Arctic Wetlands](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JG004775)
 
@@ -26,7 +29,7 @@
 **Coffer M.**, Schaeffer, B., Uruqhart, E., Darling, J. & Salls, W. (2018) A method for quantifying the number of U.S. lakes with cyanobacterial harmful algal blooms using satellite remote sensing. _Proc. SPIE 10767, Remote Sensing and Modeling of Ecosystems for Sustainability XV, 1076709_. doi:10.1117/12.2319669.
 
 
-## Publications in progress
+# Publications in progress
 
 
 ### An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S. lakes
@@ -40,7 +43,7 @@ Wu, J., Hilborn, E., Schaeffer, B., Urquhart, E., **Coffer, M.**,
 Lin, C., & Egorov, A. (2019). Acute health effects associated with remotely sensed cyanobacteria in a drinking water
 reservoir in Massachusetts. _Environmental Health_. (_In Review_).
    
-## Presentations
+# Presentations
 Exploring Satellite Image Integration for the Chesapeake Bay Submerged Aquatic Vegetation Monitoring Program 2019: Mapping seagrass with WorldView-2 and RapidEye. **Invited speaker.**
 
 Seagrasses & Neural Networks Workshop at NASA Ames 2019: Processing commercial satellite imagery for water quality applications. **Invited speaker.**
