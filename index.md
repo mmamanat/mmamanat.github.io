@@ -1,5 +1,5 @@
 ![pic](https://mmamanat.github.io/images/Megan.png)
-## About
+# About
 
 I am an ORISE fellow at the U.S. Environmental Protection Agency (EPA) Office of Research and Development and a Ph.D. Candidate at the Center for Geospatial Analytics at North Carolina State University. At the U.S. EPA, I work under the guidance of [Dr. Blake Schaeffer](https://www.epa.gov/sciencematters/meet-epa-scientist-blake-schaeffer-phd). At NC State University, I am advised by [Dr. Helena Mitasova](https://cnr.ncsu.edu/geospatial/directory/helena-mitasova/). 
 

@@ -1,9 +1,9 @@
-## Awards and Recognition 
-
-### 2020
+# 2020
 US Geospatial Intelligence Foundation (USGIF) scholarship recipient 
 
-### 2019
+The Society for Collegiate Leadership & Achievement (SCLA) nominee 
+
+# 2019
 EPA Mason Hewitt Award for GIS technical excellence
 
 Coastal and Estuarine Research Federation (CERF) Student Travel Award
@@ -16,11 +16,11 @@ NSF Travel Award to attend CyberGIS Workshop
 
 3<sup>rd</sup> place award winner at NC State Graduate School Symposium
 
-### 2018
+# 2018
 NC State University Graduate Fellowship 
 
-### 2017 
+# 2017 
 NCAEP David Griffin Environmental Scholarship 
 
-### 2016
+# 2016
 Graduate Climate Conference Travel Award

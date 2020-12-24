@@ -15,7 +15,7 @@
 
 **Coffer, M.**, Schaeffer, B., Darling, J., Urquhart, E., & Salls, W. (2020). Quantifying national and regional cyanobacterial occurrence in US lakes using satellite remote sensing. _Ecological Indicators_. 111. DOI: 10.1016/j.ecolind.2019.105976.
 
-### [A Review of Geospatial Content in IEEE Visualization Publications](https://arxiv.org/abs/2009.03390)
+### [A Review of Geospatial Content in IEEE Visualization Publications](https://arxiv.org/pdf/2009.03390.pdf)
 
 Yoshizumi, A., **Coffer, M.**, Collins, E., Gaines, M., Gao, X., Jones, K., McGregor, I., McQuillan, K., Perin, V., Tomkins, L. & Worm, T. (2020). A Review of Geospatial Content in IEEE Visualization Publications. _IEEE Visualizations_. URL: arXiv:2009.03390.
 
@@ -56,7 +56,7 @@ Seagrasses & Neural Networks Workshop at NASA Ames 2019: Processing commercial s
 
 [Stormwater Conference 2018: Using Satellite Data to Monitor the Impacts of CyanoHAB Events on Drinking Water: A Texas Case Study](https://mmamanat.github.io/images/Amanatides_SWC.pdf) 
 
-## Posters 
+# Posters 
 [CERF 2019: Monitoring algal blooms using high-spatial resolution satellite imagery](https://mmamanat.github.io/images/Coffer_poster.pdf)
 **Coffer, M.**, Schaeffer, B., Salls, W., Zimmerman, R. & Hill, V. (2019) Monitoring algal blooms using high-spatial resolution satellite imagery. _Coastal and Estuarine Research Federation._ Mobile, AL, November 4, 2019. 
 
