@@ -1,3 +1,8 @@
+# 2021
+1<sup>st</sup> place award winner at NC State College of Natural Resources Symposium
+
+Featured speaker in POLITICOLIVE [Out of This World: The Future of Satellite Imagery](https://www.politico.com/live-stream/out-of-this-world-the-future-of-satellite-imagery).
+
 # 2020
 US Geospatial Intelligence Foundation (USGIF) scholarship recipient 
 
