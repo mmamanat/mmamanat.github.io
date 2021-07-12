@@ -1,7 +1,17 @@
 # Publications
 
 
-### [Performance across WorldView-2 and RapidEye for reproducible seagrass mapping](https://www.sciencedirect.com/science/article/pii/S0034425720304065?via%3Dihub)
+### [Assessing cyanobacterial frequency and abundance at surface waters near drinking water intakes across the United States](https://www.sciencedirect.com/science/article/pii/S0043135421005753).
+
+**Coffer, M.**, Schaeffer, B., Foreman, K., Porteous, A., Loftin, K., Stumpf, R., Werdell, J., Urquhart, E., Albert, R. & Darling, J. (2021). Assessing cyanobacterial frequency and abundance at surface waters near drinking water intakes across the United States. _Water Research_. DOI: 10.1016/j.watres.2021.117377.
+
+
+### [Satellite remote sensing to assess cyanobacterial bloom frequency across the United States at multiple spatial scales](https://www.sciencedirect.com/science/article/pii/S1470160X21004878).
+
+**Coffer, M.**, Schaeffer, B., Salls, W., Urquhart, E., Loftin, K., Stumpf, R., Werdell, J., & Darling, J. (2021). Satellite remote sensing to assess cyanobacterial bloom frequency across the United States at multiple spatial scales. _Ecological Indicators_. DOI: 10.1016/j.ecolind.2021.107822.
+
+
+### [Performance across WorldView-2 and RapidEye for reproducible seagrass mapping](https://www.sciencedirect.com/science/article/pii/S0034425720304065?via%3Dihub).
 
 **Coffer, M.**, Schaeffer, B., Zimmerman, R., Hill, V., Li, J., Islam, K. & Whitman, P. (2020). Performance across WorldView-2 and RapidEye for reproducible seagrass mapping. _Remote Sensing of Environment_. DOI: 10.1016/j.rse.2020.112036.
 
