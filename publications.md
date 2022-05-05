@@ -33,12 +33,12 @@
 
 ### [Variability in Trends and Indicators of CO<sub>2</sub> Exchange across Arctic Wetlands](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JG004775)
 
-**Coffer M.** & Hestir, E. (2019). Variability in trends and indicators of CO<sub>2</sub> Exchange across Arctic wetlands. _Journal of Geophysical Research: Biogeosciences_, 124, 1248-1264. https://doi.org/10.1029/2018JG004775. 
+**Coffer, M.** & Hestir, E. (2019). Variability in trends and indicators of CO<sub>2</sub> Exchange across Arctic wetlands. _Journal of Geophysical Research: Biogeosciences_, 124, 1248-1264. https://doi.org/10.1029/2018JG004775. 
 
 
 ### [A method for quantifying the number of U.S. lakes with cyanobacterial harmful algal blooms using satellite remote sensing](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10767/0000/A-method-for-quantifying-the-number-of-US-lakes-with/10.1117/12.2319669.short?SSO=1) 
 
-**Coffer M.**, Schaeffer, B., Uruqhart, E., Darling, J. & Salls, W. (2018) A method for quantifying the number of U.S. lakes with cyanobacterial harmful algal blooms using satellite remote sensing. _Proc. SPIE 10767, Remote Sensing and Modeling of Ecosystems for Sustainability XV, 1076709_. doi:10.1117/12.2319669.
+**Coffer, M.**, Schaeffer, B., Uruqhart, E., Darling, J. & Salls, W. (2018) A method for quantifying the number of U.S. lakes with cyanobacterial harmful algal blooms using satellite remote sensing. _Proc. SPIE 10767, Remote Sensing and Modeling of Ecosystems for Sustainability XV, 1076709_. doi:10.1117/12.2319669.
 
 
 ### Providing a management framework for seagrass mapping in United States coastal ecosystems using high spatial resolution satellite imagery
