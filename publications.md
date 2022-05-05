@@ -1,7 +1,14 @@
 # First-author publications
 
 
-**Coffer, M.**, Schaeffer, B., Foreman, K., Porteous, A., Loftin, K., Stumpf, R., Werdell, J., Urquhart, E., Albert, R. & Darling, J. (2021). ###[Assessing cyanobacterial frequency and abundance at surface waters near drinking water intakes across the United States](https://www.sciencedirect.com/science/article/pii/S0043135421005753). _Water Research_. DOI: [10.1016/j.watres.2021.117377](https://www.sciencedirect.com/science/article/pii/S0043135421005753).
+### [Vertical artifacts in high-resolution WorldView-2 and WorldView-3 satellite imagery of aquatic systems](https://www.tandfonline.com/doi/full/10.1080/01431161.2022.2030069).
+
+**Coffer, M.**, Whitman, P., Schaeffer, Hill, V., Zimmerman, R., Salls, W., Lebrasse, M. & Graybill, D. (2022). Vertical artifacts in high-resolution WorldView-2 and WorldView-3 satellite imagery of aquatic systems. _International Journal of Remote Sensing_. DOI: 10.1080/01431161.2022.2030069. 
+
+
+### [Assessing cyanobacterial frequency and abundance at surface waters near drinking water intakes across the United States](https://www.sciencedirect.com/science/article/pii/S0043135421005753).
+
+**Coffer, M.**, Schaeffer, B., Foreman, K., Porteous, A., Loftin, K., Stumpf, R., Werdell, J., Urquhart, E., Albert, R. & Darling, J. (2021). Assessing cyanobacterial frequency and abundance at surface waters near drinking water intakes across the United States. _Water Research_. DOI: 10.1016/j.watres.2021.117377.
 
 
 ### [Satellite remote sensing to assess cyanobacterial bloom frequency across the United States at multiple spatial scales](https://www.sciencedirect.com/science/article/pii/S1470160X21004878).
@@ -23,9 +30,6 @@
 
 **Coffer, M.**, Schaeffer, B., Darling, J., Urquhart, E., & Salls, W. (2020). Quantifying national and regional cyanobacterial occurrence in US lakes using satellite remote sensing. _Ecological Indicators_. 111. DOI: 10.1016/j.ecolind.2019.105976.
 
-### [A Review of Geospatial Content in IEEE Visualization Publications](https://arxiv.org/pdf/2009.03390.pdf)
-
-Yoshizumi, A., **Coffer, M.**, Collins, E., Gaines, M., Gao, X., Jones, K., McGregor, I., McQuillan, K., Perin, V., Tomkins, L. & Worm, T. (2020). A Review of Geospatial Content in IEEE Visualization Publications. _IEEE Visualizations_. URL: arXiv:2009.03390.
 
 ### [Variability in Trends and Indicators of CO<sub>2</sub> Exchange across Arctic Wetlands](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JG004775)
 
@@ -37,19 +41,68 @@ Yoshizumi, A., **Coffer, M.**, Collins, E., Gaines, M., Gao, X., Jones, K., McGr
 **Coffer M.**, Schaeffer, B., Uruqhart, E., Darling, J. & Salls, W. (2018) A method for quantifying the number of U.S. lakes with cyanobacterial harmful algal blooms using satellite remote sensing. _Proc. SPIE 10767, Remote Sensing and Modeling of Ecosystems for Sustainability XV, 1076709_. doi:10.1117/12.2319669.
 
 
-<!-- # Publications in progress
+### Providing a management framework for seagrass mapping in United States coastal ecosystems using high spatial resolution satellite imagery
+
+**Coffer, M.**, Graybill, D., Whitman, P., Schaeffer, B., Salls, W., Zimmerman, R., Hill, V., Lebrasse, M., Li, J., Islam, K., & Keith, D. (_In preparation_). Providing a management framework for seagrass mapping in United States coastal ecosystems using high spatial resolution satellite imagery. _Journal of Environmental Management_. 
 
 
-### An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S. lakes
+### Algae surveillance and quantification through remote sensing
 
-Salls, W., Schaeffer, B., Keith, D., Urquhart, E., **Coffer, M.**, Seegers, B., Binding, C., & Stumpf, R. (2019). An initial validation of the Maximum Chlorophyll Index (MCI) for the Sentinel-2 satellites across U.S lakes. (_In Review_). 
+**Coffer, M.**, Ogashawara, I., Schaeffer, B., Malthus, T. & Anstee, J. (_In preparation_). “Algae Surveillance and Quantification through Remote Sensing.” M57 Algae: Source to Treatment. 
 
 
-### Acute health effects associated with remotely sensed cyanobacteria in a drinking water reservoir in Massachusetts
 
-Wu, J., Hilborn, E., Schaeffer, B., Urquhart, E., **Coffer, M.**,
-Lin, C., & Egorov, A. (2019). Acute health effects associated with remotely sensed cyanobacteria in a drinking water
-reservoir in Massachusetts. _Environmental Health_. (_In Review_). -->
+# Co-author publications
+
+### [Temporal Stability of Seagrass Extent, Leaf Area, and Carbon Storage in St. Joseph Bay, Florida: a Semi-automated Remote Sensing Analysis](https://link.springer.com/article/10.1007/s12237-022-01050-4)
+
+Lebrasse, M., Schaeffer, B., **Coffer, M.**, Whitman, P., Zimmerman, R., Hill, V., Islam, K., Li, J. & Osburn, C. (2022). Temporal Stability of Seagrass Extent, Leaf Area, and Carbon Storage in St. Joseph Bay, Florida: a Semi-automated Remote Sensing Analysis. _Estuaries and Coasts_. DOI: 10.1007/s12237-022-01050-4.
+
+
+### [Merging of the Case 2 Regional Coast Colour and Maximum-Peak Height chlorophyll-a algorithms: validation and demonstration of satellite-derived retrievals across US lakes](https://link.springer.com/article/10.1007/s10661-021-09684-w)
+
+Schaeffer, B., Salls, W., **Coffer, M.**, Lebreton, C., Werther, M., Stelzer, K., Urquhart, E. & Gurlin, D. (2022). Merging of the Case 2 Regional Coast Colour and Maximum-Peak Height chlorophyll-a algorithms: validation and demonstration of satellite-derived retrievals across US lakes. _Environmental Monitoring and Assessment_. DOI: 10.1007/s10661-021-09684-w.
+
+
+### [Acute health effects associated with satellite-determined cyanobacterial blooms in a drinking water source in Massachusetts](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-021-00755-6)
+
+Wu, J., Hilborn, E., Schaeffer, B., Urquhart, E., **Coffer, M.**, Lin, C. & Egorov, A. (2021). Acute health effects associated with satellite-determined cyanobacterial blooms in a drinking water source in Massachusetts. _Environmental Health_. DOI: 10.1186/s12940-021-00755-6.
+
+
+### [A Review of Geospatial Content in IEEE Visualization Publications](https://arxiv.org/pdf/2009.03390.pdf)
+
+Yoshizumi, A., **Coffer, M.**, Collins, E., Gaines, M., Gao, X., Jones, K., McGregor, I., McQuillan, K., Perin, V., Tomkins, L. & Worm, T. (2020). A Review of Geospatial Content in IEEE Visualization Publications. _IEEE Visualizations_. URL: arXiv:2009.03390.
+
+
+### A validation of satellite derived cyanobacteria detections with state reported events and recreation advisories across U.S. lakes
+
+Whitman, P., Schaeffer, B., Salls, W., **Coffer, M.**, Mishra, S., Seegers, B., Loftin, K., Stumpf, R. & Werdell, J. (_In press_). A validation of satellite derived cyanobacteria detections with state reported events and recreation advisories across U.S. lakes. _Harmful Alage_. DOI: 10.1016/j.hal.2022.102191. 
+
+
+### Simulated response of St. Joseph Bay, FL seagrass meadows and blue carbon to anthropogenic and climate impacts
+
+Lebrasse, M., Schaeffer, B., Zimmerman, R., Hill, V., **Coffer, M.**, Whitman, P., Salls, W., Graybill, D. & Osburn, C. (_In review_). Simulated response of St. Joseph Bay, FL seagrass meadows and blue carbon to anthropogenic and climate impacts. _Marine Environmental Research_.
+
+
+### Potential for commercial PlanetScope satellites in oil response monitoring
+
+Schaeffer, B., Whitman, P., Conmy, R., Salls, W., **Coffer, M.**, Graybill, D. & Lebrasse, M. (_In review_). Potential for commercial PlanetScope satellites in oil response monitoring. _Marine Pollution Bulletin_. 
+
+
+### Satellites quantify the spatial extent of cyanobacterial blooms across the United States at multiple scales
+
+Schaeffer, B., Urquhart, E., **Coffer, M.**, Salls, W., Stumpf, R., Loftin, K. & Werdell, P. (_In review_). Satellites quantify the spatial extent of cyanobacterial blooms across the United States at multiple scales. _Ecological Indicators_.
+
+
+### Assessment of dissolved organic carbon flux in a North Carolina tidal marsh
+
+Lebrasse, M. Schaeffer, B., Bohnenstiehl, D., Osburn, C., He, R., **Coffer, M.**, Whitman, P., Salls, W., & Graybill, D. (_In preparation_). Assessment of dissolved organic carbon flux in a North Carolina tidal marsh. _Earth Science Reviews_.
+
+
+### Satellite monitoring of chlorophyll in U.S. lakes: a national-scale validation of the Sentinel-2 Maximum Chlorophyll Index
+
+Salls, W., Schaeffer, B., Pahlevan, N., Keith, D., Binding, C., Stumpf, R., Seegers, B., Werdell, P., **Coffer, M.** & Whitman, P. (_In preparation_). Satellite monitoring of chlorophyll in U.S. lakes: a national-scale validation of the Sentinel-2 Maximum Chlorophyll Index. _Environmental Monitoring and Assessment_.
+
    
 # Presentations
 Exploring Satellite Image Integration for the Chesapeake Bay Submerged Aquatic Vegetation Monitoring Program 2019: Mapping seagrass with WorldView-2 and RapidEye. **Invited speaker.**
