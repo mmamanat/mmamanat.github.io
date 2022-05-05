@@ -1,7 +1,7 @@
-# First-author Publications
+# First-author publications
 
 
-**Coffer, M.**, Schaeffer, B., Foreman, K., Porteous, A., Loftin, K., Stumpf, R., Werdell, J., Urquhart, E., Albert, R. & Darling, J. (2021). Assessing cyanobacterial frequency and abundance at surface waters near drinking water intakes across the United States. _Water Research_. DOI: [10.1016/j.watres.2021.117377](https://www.sciencedirect.com/science/article/pii/S0043135421005753).
+**Coffer, M.**, Schaeffer, B., Foreman, K., Porteous, A., Loftin, K., Stumpf, R., Werdell, J., Urquhart, E., Albert, R. & Darling, J. (2021). ###Assessing cyanobacterial frequency and abundance at surface waters near drinking water intakes across the United States. _Water Research_. DOI: [10.1016/j.watres.2021.117377](https://www.sciencedirect.com/science/article/pii/S0043135421005753).
 
 
 ### [Satellite remote sensing to assess cyanobacterial bloom frequency across the United States at multiple spatial scales](https://www.sciencedirect.com/science/article/pii/S1470160X21004878).
